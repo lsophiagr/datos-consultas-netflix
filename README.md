@@ -1,4 +1,4 @@
-# consultas Netflix 🍿    
+# Consultas 🍿    
 Repositorio creado para subir tareas y ejercicios realizados en la clase de datos1.
 
 
